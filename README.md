@@ -1,7 +1,6 @@
-# OEC-LunchnLearn-TripPlanning
-presentation for OEC Lunch &amp; Learn about technology &amp; trip planning
+# OEC Lunch &amp; Learn
 
-
+## Trip Planning with Technology
 
 - Google Maps
   - Platforms: web, iOS, Android
