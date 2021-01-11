@@ -2,6 +2,8 @@
 
 ## Trip Planning with Technology
 
+- reading topo maps
+
 - Google Maps
   - Platforms: web, iOS, Android
   - Offline maps
@@ -19,6 +21,7 @@
     - multi day trips
 
 - Avenza Maps
+  - forest service and similar PDF maps
 
 - Furkot
   - Platforms: web
@@ -57,6 +60,7 @@
   - Adding GPX routes
   - Planning Route
   - Exporting GPX for other things
+  - offline maps
 
 - Tech to take with you
   - Cell phone
