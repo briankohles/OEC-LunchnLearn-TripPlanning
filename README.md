@@ -1,10 +1,16 @@
 # OEC Lunch &amp; Learn
 
+## Setup
+
+- [ ] Install Skype for Business on Mac
+- [ ] Plugin iPhone Via USB
+- [ ] Open Quicktime (for sharing iPhone)
+  - [ ] File -> New Movie Recording
+  - [ ] From dropdown next to record button choose iphone
+
 ## Trip Planning with Technology
 
-- reading topo maps
-
-- Google Maps
+- [Google Maps](https://maps.google.com)
   - Platforms: web, iOS, Android
   - Offline maps
   - Pins
