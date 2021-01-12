@@ -1,14 +1,5 @@
 # OEC Lunch & Learn
 
-## Setup
-
-- [x] Install Skype for Business on Mac
-- [x] [Skype Call](https://sfmeet.statefarm.com/brian.kohles.tptu/OX228VEA)
-- [x] Plugin iPhone Via USB
-- [x] Open Quicktime (for sharing iPhone)
-  - [x] File -> New Movie Recording
-  - [x] From dropdown next to record button choose iphone
-
 ## Trip Planning with Technology
 
 ### [Google Maps](https://maps.google.com)
@@ -118,9 +109,3 @@
 
 - Trailforks - Great for mountain biking
 - TrailsOffRoad.com - Off Roading
-
-
-
-
-
-
