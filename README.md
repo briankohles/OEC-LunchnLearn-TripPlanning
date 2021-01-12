@@ -2,7 +2,8 @@
 
 ## Setup
 
-- [ ] Install Skype for Business on Mac
+- [x] Install Skype for Business on Mac
+- [ ] [Skype Call](https://sfmeet.statefarm.com/brian.kohles.tptu/OX228VEA)
 - [ ] Plugin iPhone Via USB
 - [ ] Open Quicktime (for sharing iPhone)
   - [ ] File -> New Movie Recording
@@ -10,15 +11,16 @@
 
 ## Trip Planning with Technology
 
-- [Google Maps](https://maps.google.com)
-  - Platforms: web, iOS, Android
-  - Offline maps
-  - Pins
-  - Lists
-  - Sharing
-  - Good For:
-    - General trip planning
-    - finding things to do
+### [Google Maps](https://maps.google.com)
+
+- [ ] **Good For:**
+  - General trip planning
+  - finding things to do
+- [ ] **Platforms:** web, iOS, Android
+- [ ] Pins
+- [ ] Lists
+- [ ] Sharing
+- [ ] Offline maps
 
 - inRoute
   - Platforms: iOS, MacOS
